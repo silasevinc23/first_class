@@ -1,8 +1,8 @@
 ﻿class Person
 {
-    public string ad = "Sıla";
-    public string soyad = "Sevinç";
-    public string dogum_tarihi = "16/04/1997";
+    public string ad ;
+    public string soyad ;
+    public string dogum_tarihi;
 
     string Ad
     {
